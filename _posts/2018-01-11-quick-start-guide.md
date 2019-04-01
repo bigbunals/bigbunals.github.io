@@ -8,4 +8,4 @@ featured: true
 hidden: true
 ---
 
-<div class="x-frame video" data-video="http://player.vimeo.com/video/52302939"> </div>
+<iframe src="https://openload.co/embed/gWxbLi1qy14/test.mp4" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
