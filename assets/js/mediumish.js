@@ -29,6 +29,11 @@ jQuery(document).ready(function($){
             $('.alertbar').fadeOut();
         }
     });
+	
+  // wrap iframe video	
+     $('.x-frame.video').each(function() {
+       $(this).after("<iframe class=\"video\" src=\"" + ($(this).attr('data-video')) + "\" frameborder=\"0\"></iframe>");
+    });	
 
 
     // Smooth on external page
