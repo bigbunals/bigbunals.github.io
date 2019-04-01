@@ -8,4 +8,4 @@ featured: true
 hidden: true
 ---
 
-
+<div class="x-frame video" data-video="http://player.vimeo.com/video/52302939"> </div>
