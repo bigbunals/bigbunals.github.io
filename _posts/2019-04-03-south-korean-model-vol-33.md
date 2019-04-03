@@ -3,7 +3,7 @@ layout: post
 title:  "south korean model vol. 33"
 author: mojaval
 categories: [ korean, model ]
-image: https://openload.co/stream/BtbOxGIQFIk~1554308574~103.252.0.0~e0fYZtHg?mime=true
+image: https://ph2dqx.oloadcdn.net/dl/l/4bivGQLNfaRnC-iM/BtbOxGIQFIk/south-korean-model-vol-33___a795e6b314bcbff32e692217e13292100aeacb7a.mp4_splash.jpg?mime=true
 featured: 
 hidden: 
 ---
