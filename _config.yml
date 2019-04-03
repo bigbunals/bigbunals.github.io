@@ -11,6 +11,8 @@ mailchimp-list: 'https://gmail.us20.list-manage.com/subscribe/post?u=61ac1128c84
 include: ["_pages"]
 permalink: /:title/
 
+page:
+  comments: false
 # Authors
 
 
