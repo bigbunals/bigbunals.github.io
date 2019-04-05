@@ -3,7 +3,7 @@ layout: post
 title:  "korean sex scandal 6-2"
 author: mojaval
 categories: [ homemade, korean, korea, asia, asian, sex, couple, amateur, scandal, motel, adult, self, camera, real, big dick, hardcore ]
-image: https://cdn.jsdelivr.net/gh/bigbunals/imagezz/imagezz/korean-sex-scandal-6-2___39d6f2c15b97b3d5a1584f8a5bc93fe7310db2db.mp4.jpg
+image: https://cdn.jsdelivr.net/gh/bigbunals/imagezz@master/korean-sex-scandal-6-2___39d6f2c15b97b3d5a1584f8a5bc93fe7310db2db.mp4.jpg
 featured: 
 hidden: 
 ---

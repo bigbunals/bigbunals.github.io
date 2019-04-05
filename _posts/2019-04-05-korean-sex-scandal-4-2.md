@@ -3,7 +3,7 @@ layout: post
 title:  "korean sex scandal 4-2"
 author: mojaval
 categories: [ homemade, korea, asia, asian, sex couple, scandal, motel, adult sex, camera, real, natural tits, hard fast fuck, hottie, babe, trimmed pussy ]
-image: https://cdn.jsdelivr.net/gh/bigbunals/imagezz/imagezz/korean-sex-scandal-4-2___629770181ccedb82d5001bdc3e4460f9556092ed.mp4.jpg
+image: https://cdn.jsdelivr.net/gh/bigbunals/imagezz@master/korean-sex-scandal-4-2___629770181ccedb82d5001bdc3e4460f9556092ed.mp4.jpg
 featured: 
 hidden: 
 ---

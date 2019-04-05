@@ -3,7 +3,7 @@ layout: post
 title:  "korean sex scandal 20-1"
 author: mojaval
 categories: [ homemade, korean, korea, asia, asian, sex, couple, amateur, scandal, motel, adult, self, camera, real ]
-image: https://cdn.jsdelivr.net/gh/bigbunals/imagezz/imagezz/korean-sex-scandal-20-1___cdb477981099f4d32fc68c1a55eca5a96b33cf62.mp4.jpg
+image: https://cdn.jsdelivr.net/gh/bigbunals/imagezz@master/korean-sex-scandal-20-1___cdb477981099f4d32fc68c1a55eca5a96b33cf62.mp4.jpg
 featured: 
 hidden: 
 ---
