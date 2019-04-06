@@ -22,7 +22,7 @@ RamenPatrol abides by the following procedures to ensure compliance:
     Requiring all users to be 18 years of age to upload videos.
     When uploading, user must verify the content; assure he/she is 18 years of age; certify that he/she keeps records of the models in the content and that they are over 18 years of age.
 
-For further assistance and/or information in finding the content's originating site, please contact RamenPatrol.com compliance at bigbunal@protonmail.com</p>
+For further assistance and/or information in finding the content's originating site, please contact RamenPatrol.com compliance at <b>bigbunal (at) protonmail (dot) com</b></p>
 
 </div>
 </div>
