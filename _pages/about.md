@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About this Website
 permalink: /about
 comments: true
 ---
@@ -8,28 +8,21 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">    
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<h4>DMCA</h4>
+<p>We take claims of copyright infringement seriously. We will respond to notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act (the “DMCA”) or any other applicable intellectual property legislation or laws. Please email your request to <b>bigbunal (at) protonmail (dot) com</b></p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<h4>18 USC 2257 Statement: RamenPatrol.com</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>This website is not a producer (primary or secondary) of any and all of the content found on the website (RamenPatrol.com). With respect to the records as per 18 USC 2257 for any and all content found on this site, please kindly direct your request to the site for which the content was produced.
 
-<h4>Questions or bug reports?</h4>
+RamenPatrol is a video sharing site in which allows for the uploading, sharing and general viewing of various types of adult content and while RamenPatrol does the best it can with verifying compliance, it may not be 100% accurate.
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+RamenPatrol abides by the following procedures to ensure compliance:
 
-</div>
+    Requiring all users to be 18 years of age to upload videos.
+    When uploading, user must verify the content; assure he/she is 18 years of age; certify that he/she keeps records of the models in the content and that they are over 18 years of age.
 
-<div class="col-md-4">
-    
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+For further assistance and/or information in finding the content's originating site, please contact RamenPatrol.com compliance at bigbunal@protonmail.com</p>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
 </div>
 </div>
